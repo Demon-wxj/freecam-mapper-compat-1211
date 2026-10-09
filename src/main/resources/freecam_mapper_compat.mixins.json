@@ -1,0 +1,1 @@
+{"required":true,"package":"local.freecamcompat.mixin","plugin":"local.freecamcompat.CompatibilityPlugin","compatibilityLevel":"JAVA_21","client":["CameraPermissionMixin","MapperTurnBoundary"],"injectors":{"defaultRequire":1}}
